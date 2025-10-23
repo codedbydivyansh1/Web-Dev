@@ -1,0 +1,25 @@
+#container{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    position: relative;
+}
+
+.second{
+    height: 100px;
+    width: 300px;
+    position: absolute;
+    top: 50px;
+    background-color: blue;
+    
+}
+.third{
+    height: 90px;
+    width: 100px;
+    border-radius:  50%;
+    position: absolute;
+    top: 55px;
+    background-color: white;
+    left: 100px;
+    
+}

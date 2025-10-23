@@ -1,0 +1,89 @@
+/* tag elementor selector */
+
+/* h1{
+    background-color: red;
+}
+
+ul{
+    background-color:aquamarine;
+} */
+
+
+/* id base selection */
+/* #first{
+    background-color: blue;
+}
+
+#second{
+    background-color: pink;
+} */
+
+/* class based selection */
+/* .third{
+
+    background-color: red;
+}
+
+.forth{
+    background-color: pink;
+} */
+
+
+
+/* group based selection */
+
+/* h1,.forth{
+    background-color: red;
+} */
+
+/* h1{
+    background-color: rgba(19,118,161,0.5)
+}
+
+
+h2{
+    background-color:hsla(0, 83%, 38%,0.9);
+} */
+
+
+/* h1{background-color: #634787;
+
+} */
+
+
+/* font */
+
+/* h1{
+    font-size: 80px;
+}
+ul{
+    font-size: 20px;
+}
+li{
+    font-size: 2em;  
+}
+
+h2{
+    font-size: 2rem; 
+    <double the root>
+} */
+/* html{
+    /* font-size: 2vw; */
+
+    /* font-size: 100%; */
+/* } */ 
+
+/* h2{
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: 100;
+    /* font-size: 100px; */
+/* }  */
+
+h2{
+.cossette-titre-bold {
+font-family: "Cossette Titre", sans-serif;
+font-weight: 900;
+font-style: normal;
+}
+}

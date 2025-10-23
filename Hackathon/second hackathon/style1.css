@@ -1,0 +1,37 @@
+#canvas-bf73f81d-e1ff-df13-a883-0d4b170e6e90 {
+    display: block;
+    position: static;
+    flex: 0 1 auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    flex-grow: 0;
+    flex-shrink: 1;
+    grid: none / none / none / row / auto / auto;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    width: 455.688px;
+    height: 455.688px;
+    max-width: 455.7px;
+    font-family: Poppins, Inter, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25.6px;
+    text-align: start;
+       color: rgb(241, 245, 249);
+    background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0px none rgb(241, 245, 249);
+    border-width: 0px;
+    border-color: rgb(241, 245, 249);
+    border-radius: 0px;
+    opacity: 1;
+    transition: all;
+    overflow: clip;
+}
+
